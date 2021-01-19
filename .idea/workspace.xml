@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df8f4e64-40b2-4628-93bb-fb6f31dac528" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/test_text_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_text_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_processing.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test_text_processing.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_text_processing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2236">
+              <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+              <folding>
+                <element signature="e#24#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text_processing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text_processing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/text_processing.py" />
+        <option value="$PROJECT_DIR$/test_text_processing.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1022" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="text-processing-staycozyboy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-processing-staycozyboy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_text_processing.TestTextProcessing">
+    <configuration name="test_text_processing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="text-processing-staycozyboy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_text_processing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Doctest no_vowels" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="text-processing-staycozyboy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="no_vowels" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration name="Unittests for test_text_processing.TestTextProcessing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="text-processing-staycozyboy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_text_processing.TestTextProcessing&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_text_processing.TestTextProcessing.test_no_vowels" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="text-processing-staycozyboy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_text_processing.TestTextProcessing.test_no_vowels&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_text_processing.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="text-processing-staycozyboy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_text_processing.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in test_text_processing.py" />
+      <item itemvalue="Python tests.Unittests for test_text_processing.TestTextProcessing" />
+      <item itemvalue="Python tests.Unittests for test_text_processing.TestTextProcessing.test_no_vowels" />
+      <item itemvalue="Python tests.Doctest no_vowels" />
+      <item itemvalue="Python.test_text_processing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_text_processing.TestTextProcessing" />
+        <item itemvalue="Python tests.Unittests for test_text_processing.TestTextProcessing.test_no_vowels" />
+        <item itemvalue="Python.test_text_processing" />
+        <item itemvalue="Python tests.Doctest no_vowels" />
+        <item itemvalue="Python tests.Unittests in test_text_processing.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df8f4e64-40b2-4628-93bb-fb6f31dac528" name="Default" comment="" />
+      <created>1611030650995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611030650995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing - 2021.01.19 at 13h 40m 10s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing_test_no_vowels - 2021.01.19 at 13h 46m 29s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing.test_no_vowels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing_test_no_vowels - 2021.01.19 at 13h 46m 42s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing.test_no_vowels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing_test_no_vowels - 2021.01.19 at 13h 49m 21s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing.test_no_vowels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_no_vowels - 2021.01.19 at 13h 49m 51s.xml">
+      <configuration name="Doctest no_vowels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing - 2021.01.19 at 13h 51m 29s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing - 2021.01.19 at 13h 52m 03s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing_test_no_vowels - 2021.01.19 at 14h 04m 10s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing.test_no_vowels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing_test_no_vowels - 2021.01.19 at 14h 21m 19s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing.test_no_vowels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_text_processing_TestTextProcessing_test_no_vowels - 2021.01.19 at 14h 22m 49s.xml">
+      <configuration name="Unittests for test_text_processing.TestTextProcessing.test_no_vowels" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/text_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_text_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2236">
+          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
